@@ -1,0 +1,14 @@
+{
+  "name": "image-optimizer-api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Api for optimizing images",
+  "main": "./server/server.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "cd ./client && npm i && npm run build && cd ../server && npm i",
+    "start": "node ./server/server.js"
+  },
+  "author": "mornach",
+  "license": "ISC"
+}

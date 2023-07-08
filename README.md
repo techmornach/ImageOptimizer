@@ -2,6 +2,10 @@
 
 The Image Optimization App is a web application that allows users to upload images and optimize them for web usage. It utilizes an API for image optimization and provides a user-friendly interface for uploading, optimizing, and downloading images.
 
+## Demo <a name="demo"></a>
+
+![Image Optimizer Demo](https://i.ibb.co/g9mxvT5/Screenshot-2023-07-08-at-11-49-55.png)
+
 ## Features
 
 - Upload images from local storage
